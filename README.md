@@ -9,3 +9,12 @@
 ### an example page
 
 ![Foundation 6 Buttons](files/buttons.jpeg "buttons page")
+
+## Prototyping Process
+
+1. Sketch a template using paper and pencil or find templates from internet to get some ideas
+2. find images
+3. create a new keynote file
+4. copy and paste objects from "Foundation 6 UI.key" to the new keynote file. And place them like in your sketch
+5. add links between slides
+6. add animations
