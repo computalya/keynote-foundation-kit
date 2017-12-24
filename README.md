@@ -30,3 +30,5 @@ iPhone 6 demo to [download](demos/iphone-6-demo.key)
 ### Website Demo
 
 Website demo [download](demos/website-demo.key)
+
+![website-demo](files/website-demo.gif)
