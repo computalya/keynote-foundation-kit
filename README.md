@@ -4,4 +4,4 @@
 
 ## PDF overview
 
-[Foundation 6 UI.pdf]("pdf/Foundation 6 UI.pdf" "ALT TEXT")
+[Foundation 6 UI.pdf](pdf/Foundation-6-UI.pdf "ALT TEXT")
