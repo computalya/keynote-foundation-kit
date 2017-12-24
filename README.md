@@ -23,7 +23,7 @@
 
 ### iPhone 6 Demo
 
-iPhone 6 demo to ![download]("demo mockups/iphone-6-demo.key")
+iPhone 6 demo to [download](demos/iphone-6-demo.key)
 
 ### Website Demo
 
