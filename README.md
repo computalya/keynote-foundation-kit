@@ -25,12 +25,12 @@ Few prototypes can be found in [demos](./demos) directory
 
 ### iPhone 6 Demo
 
-![iPhone 6 demo](files/iphone-6-demo.gif)
+click [here](demos/iphone-6-demo.key) to download keynote file
 
-iPhone 6 demo to [download](demos/iphone-6-demo.key)
+![iPhone 6 demo](files/iphone-6-demo.gif)
 
 ### Website Demo
 
-Website demo [download](demos/website-demo.key)
+click [here](demos/website-demo.key) to download keynote file
 
 ![website-demo](files/website-demo.gif)
