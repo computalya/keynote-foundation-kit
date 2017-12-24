@@ -18,3 +18,12 @@
 4. copy and paste objects from "Foundation 6 UI.key" to the new keynote file. And place them like in your sketch
 5. add links between slides
 6. add animations
+
+## Demos
+
+### iPhone 6 Demo
+
+iPhone 6 demo to [download]('demo mockups/iphone-6-demo.key' "iphone 6 demo")
+
+### Website Demo
+
