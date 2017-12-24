@@ -2,6 +2,10 @@
 
 **keynote-foundation-kit** is a set of [Foundation Zurb v6](https://foundation.zurb.com) objects to create fast mockups, prototypes using Apple's Keynote application
 
+## Download
+
+[Foundation 6 UI.key]("./Foundation 6 UI.key")
+
 ## overview
 
 [Foundation 6 UI.pdf](files/Foundation-6-UI.pdf "PDF overview")
