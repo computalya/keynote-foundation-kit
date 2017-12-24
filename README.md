@@ -4,7 +4,7 @@
 
 ## Download
 
-[Foundation 6 UI.key]("./Foundation 6 UI.key")
+[foundation-6-ui.key](./foundation-6-ui.key)
 
 ## overview
 
