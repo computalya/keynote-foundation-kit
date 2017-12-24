@@ -21,6 +21,8 @@
 
 ## Demos
 
+Few prototypes can be found in [demos](./demos) directory
+
 ### iPhone 6 Demo
 
 iPhone 6 demo to [download](demos/iphone-6-demo.key)
