@@ -8,4 +8,4 @@
 
 ### an example page
 
-[Foundation 6 Buttons](files/buttons.jpeg "buttons page")
+![Foundation 6 Buttons](files/buttons.jpeg "buttons page")
